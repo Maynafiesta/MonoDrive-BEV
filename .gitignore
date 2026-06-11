@@ -11,9 +11,7 @@ env.bak/
 venv.bak/
 
 # Project specific
-outputs/
-data/
-*.mp4
+presentation_notes.txt
 *.avi
 *.pt
 *.onnx
