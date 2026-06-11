@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+
+# Project specific
+outputs/
+data/
+*.mp4
+*.avi
+*.pt
+*.onnx
+*.engine
+
+# IDEs
+.idea/
+.vscode/
+*.swp
