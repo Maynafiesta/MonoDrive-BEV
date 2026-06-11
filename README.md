@@ -2,6 +2,15 @@
 
 **MonoDrive-BEV** is a Computer Vision prototype that performs **Monocular 3D Perception, Sensor Fusion, and Path Planning** using a single standard camera. It translates 2D dashboard camera feeds into a top-down Bird's Eye View (BEV) Occupancy Grid and dynamically calculates a safe trajectory.
 
+## 📸 Sample Screenshots
+
+Here are some examples of the Sensor Fusion and A* Path Planning in action:
+
+![Demo Screenshot 1](outputs/Report_0.png)
+![Demo Screenshot 2](outputs/Report_1.png)
+![Demo Screenshot 3](outputs/Report_2.png)
+![Demo Screenshot 4](outputs/Report_3.png)
+
 ## 🚀 Features
 
 - **Dynamic Obstacle Detection:** Uses `YOLOv8` to detect vehicles, pedestrians, and other obstacles in the camera view.
